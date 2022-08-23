@@ -1,0 +1,20 @@
+{ "nombre":"Pamela",
+"apellido":"Framarini",    
+"edad":34,
+"precioAsiento":7000,
+"pagado":true,
+"asiento":{
+    "numero":13,
+    "letras":"F",
+    "cargador":false,}   ,
+"historial":[ {
+    "salida":"Nueva York",
+    "destino":"Chicago",
+    "fecha":"20/01/20",} ,  
+{
+    "salida":"Madrid",
+    "destino":"Londres",
+    "fecha":"20/10/20",
+} ]
+
+}
